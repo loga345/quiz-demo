@@ -10,7 +10,7 @@
 
 * Download and install the Ollam locally 
 * Pull the required model using pull command. ('ollama pull gemma3:4b' )
-* Start the modeul using 'ollam run gemma3:4b'
+* Start the model using 'ollam run gemma3:4b'
 
 ### Build
 
